@@ -15,9 +15,13 @@ SQL: Harnessing the capabilities of SQL for efficient data retrieval, storage, a
 
 
 What You'll Find Here
+
 In this repository, you'll discover a collection of projects, scripts, and resources related to:
+
 Data Analysis: Exploring various datasets to derive meaningful insights that drive informed decision-making.
+
 PowerBI Reports: Showcasing the beauty and power of PowerBI in creating interactive reports that provide a holistic view of business performance.
+
 SQL Scripts: Sharing snippets and scripts that showcase SQL possibilities for data manipulation and analysis.
 
 
