@@ -37,6 +37,7 @@ Tools Used: Excel, Dynamic Array Functions
 
 Results: Full transparency of RM costs and its drivers for enhanced monitoring and decision making. In depth understanding of costs drivers leads to enhanced cost control and business results.
 
+
 Project 2: [Standard Costing - WIP]
 Description: Building from scratch Standard Costing model of a mid-sized company, having only very basic PNL data and GL records, but no ERP available.
 
