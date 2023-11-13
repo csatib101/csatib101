@@ -1,4 +1,5 @@
 Hello there! 
+
 I'm Bela CSATI, a seasoned Controlling Manager and Data Analyst with a rich background in the Manufacturing, Automotive and Service industries. I thrive on leveraging data to enhance decision-making processes and improve overall business efficiency.
 
 
