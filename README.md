@@ -6,8 +6,11 @@ Expertise
 My expertise lies in:
 
 Excel: Proficient in using Excel for data analysis, modeling, and visualization, complementing my skills in other tools.
+
 PowerBI: Transforming raw data into actionable insights through dynamic and interactive reports and dashboards.
+
 PowerQuery: Unleashing the power of data transformation and cleansing to ensure accurate and reliable analyses.
+
 SQL: Harnessing the capabilities of SQL for efficient data retrieval, storage, and manipulation.
 
 
